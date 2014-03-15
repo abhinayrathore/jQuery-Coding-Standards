@@ -1,4 +1,4 @@
-jQuery-Coding-Standards
+jQuery Coding Standards and Best Practices
 =======================
 
-jQuery Coding Standards and Best Practices 
+UNDER CONSTRUCTION
